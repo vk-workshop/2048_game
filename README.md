@@ -1,4 +1,26 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# 2048 Game
+
+## Project Overview
+
+This project is a web-based implementation of the popular game 2048. The objective of the game is to slide numbered tiles on a grid to combine them and create a tile with the number 2048. The game features a responsive design, intuitive controls, and a dynamic scoring system.
+
+## Technologies Used
+
+- **HTML**: For the structure of the game.
+- **SCSS**: For styling and layout.
+- **JavaScript**: For game logic and interactions.
+
+## Preview
+
+You can view the live preview of the game here:
+
+[2048 Game Preview](https://vk-workshop.github.io/2048_game/)
+
+## Additional Launch Instructions
+
+To run the project locally, follow these steps:
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/your-username/2048_game.git
+   cd 2048_game
